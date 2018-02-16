@@ -2,6 +2,6 @@
 If you want to apply old dashboard to new index. just run this python script
 I developed it in my free time just to get better with python and network requests 
 
-You can use this script free of charge. Apache 2 licence 
-If you know someone from kibana make them implement this functionality natively
+You can use this script free of charge. Apache 2 licence.
+If you know someone from kibana make them implement this functionality natively.
 And make them document urls and api calls. so it is easier to do stuff from console 
